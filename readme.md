@@ -1,13 +1,17 @@
-Lean Scraper
-============
+Raspado
+=======
 
-At Code for Venezuela we have projects that depend on data. But, many
-times, because of the difficult situation of the country, that data
-cannot be easily digested. Not only is it usually *dirty*, but it comes
-from *many sources*. That is where lean-scraper comes into play.
+> Raspado is a *lean* web scraper intended to parse data from many
+sources. Its goal is not **speed**, but **flexibility**
 
-Lean Scraper is a hacked prototype intended to parse data from many
-sources. Its goal is not **speed**, but **flexibility**. Since we will
+At [Code for Venezuela](#) we have projects that depend on data. But,
+many times, because of the difficult situation of the country, the data
+is not easy to digest. 
+
+As usual, data tends to be *dirty* but, at the organization, it comes
+from *many sources*. This is where `raspado` comes into play.
+
+. Since we will
 have to extract many sites, we follow
 
 > Configuration over implementation
